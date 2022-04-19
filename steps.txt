@@ -1,0 +1,17 @@
+Task Implementation Steps:
+
+1] Explore the python library which is used to connect to Zoom Application.
+2] Install the same.
+3] Study different methods involved inside it.
+4] Write a python script which performs following tasks:
+   a] scedule the meeting 
+     it should schedule new meeting for provided date and time.
+     date and time is provided as an input to code.
+     
+     
+Ecplore YouTube videos and make sure you clear your concepts
+before starting the task. 
+You can search on youtube using below statements:
+  How to use zoom with python code
+  schedule zoom meetings using python
+  automate zoom using python code.
