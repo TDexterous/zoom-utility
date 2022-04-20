@@ -1,3 +1,6 @@
+Implementation on Ubuntu WSL
+cd /mnt/f/NewFolder/techno-dexterous/internship/projects/
+
 Task Implementation Steps:
 
 1] Explore the python library which is used to connect to Zoom Application.
